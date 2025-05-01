@@ -1,0 +1,334 @@
+State Name,Month,Actual Deaths,Predicted Deaths
+Alabama,1,25,27.752548
+Alabama,2,27,28.070213
+Alabama,3,75,86.10842
+Alabama,4,36,39.745365
+Alabama,6,28,39.655136
+Alabama,7,22,20.052717
+Alabama,9,17,25.231573
+Alabama,10,15,16.105536
+Arizona,1,12,14.302607
+Arizona,3,52,51.154724
+Arizona,5,43,53.80198
+Arizona,6,74,92.63166
+Arizona,7,10,9.984962
+Arizona,9,97,128.60907
+Arizona,10,13,13.332716
+Arizona,12,36,53.980156
+Arkansas,1,13,12.599582
+Arkansas,5,12,14.535663
+Arkansas,7,14,14.787079
+California,1,260,211.01927
+California,2,87,86.85777
+California,3,428,409.00745
+California,4,283,281.20175
+California,5,424,383.76578
+California,6,372,360.21786
+California,7,332,284.13388
+California,8,49,46.99505
+California,9,54,59.656654
+California,10,25,21.050795
+California,11,284,340.73373
+California,12,16,16.291594
+Colorado,1,13,10.502466
+Colorado,2,51,47.514793
+Colorado,3,50,47.61877
+Colorado,4,51,48.236744
+Colorado,5,57,36.533203
+Colorado,6,69,63.013355
+Colorado,7,10,12.222643
+Colorado,8,37,26.360111
+Connecticut,1,28,30.562763
+Connecticut,2,10,17.418041
+Connecticut,4,44,45.345905
+Connecticut,5,22,23.411106
+Connecticut,7,22,21.33494
+Connecticut,9,13,13.377667
+Connecticut,10,35,43.745758
+Connecticut,11,10,17.186054
+Connecticut,12,41,43.33649
+Delaware,7,11,12.011547
+Delaware,8,11,14.553146
+District of Columbia,1,10,11.301783
+District of Columbia,2,12,15.540612
+District of Columbia,7,14,15.163048
+District of Columbia,8,10,10.859964
+Florida,1,241,224.94229
+Florida,2,188,170.17369
+Florida,3,316,308.4974
+Florida,4,178,159.48044
+Florida,5,13,13.850894
+Florida,6,18,17.690655
+Florida,7,114,105.711754
+Florida,8,114,93.99919
+Florida,9,46,47.787292
+Florida,10,149,143.08081
+Florida,11,208,214.48041
+Florida,12,201,169.92188
+Georgia,1,37,46.648285
+Georgia,3,38,31.503517
+Georgia,4,14,15.004211
+Georgia,5,40,40.43466
+Georgia,6,29,33.45936
+Georgia,7,30,26.76874
+Georgia,8,30,29.89838
+Georgia,10,27,28.221506
+Georgia,11,39,38.24716
+Georgia,12,22,21.43489
+Idaho,7,12,12.576265
+Illinois,1,72,63.459057
+Illinois,2,76,84.8335
+Illinois,3,165,132.99326
+Illinois,4,39,47.378403
+Illinois,5,46,38.558094
+Illinois,6,16,15.2635975
+Illinois,7,33,39.565624
+Illinois,8,54,51.618366
+Illinois,9,49,58.54094
+Illinois,10,58,49.819942
+Illinois,11,15,14.319874
+Illinois,12,58,58.34631
+Indiana,1,19,12.506636
+Indiana,2,65,74.3136
+Indiana,4,38,37.62486
+Indiana,5,35,31.670446
+Indiana,6,18,25.245245
+Indiana,8,25,29.391903
+Indiana,9,68,60.3637
+Indiana,11,29,28.480429
+Indiana,12,32,38.338985
+Iowa,5,11,16.851404
+Iowa,6,10,10.319506
+Iowa,9,11,14.9663925
+Kansas,1,10,11.268648
+Kansas,3,17,12.90151
+Kansas,4,10,10.962215
+Kansas,6,20,12.212098
+Kentucky,3,40,54.125217
+Kentucky,5,37,34.3471
+Kentucky,7,29,42.65143
+Kentucky,8,10,13.339199
+Kentucky,10,23,32.595673
+Louisiana,1,14,16.832357
+Louisiana,2,64,73.91611
+Louisiana,3,26,21.919392
+Louisiana,4,33,45.830925
+Louisiana,7,35,46.691654
+Louisiana,8,23,26.182344
+Louisiana,9,12,14.31874
+Louisiana,10,14,12.823721
+Louisiana,11,11,15.560575
+Louisiana,12,93,92.225716
+Maine,3,12,14.740135
+Maine,4,22,14.831605
+Maine,5,10,13.521986
+Maine,7,16,13.73872
+Maine,9,23,15.1862545
+Maine,10,14,11.220656
+Maine,12,13,14.719086
+Maryland,1,84,67.97513
+Maryland,2,100,91.637955
+Maryland,3,69,60.72306
+Maryland,4,22,21.983557
+Maryland,5,20,18.612387
+Maryland,7,16,22.938042
+Maryland,9,28,29.046484
+Maryland,10,44,46.3005
+Maryland,12,13,15.038479
+Massachusetts,1,92,82.43891
+Massachusetts,2,44,56.218903
+Massachusetts,4,10,17.493876
+Massachusetts,5,13,17.888073
+Massachusetts,8,13,14.418743
+Massachusetts,9,45,47.09832
+Massachusetts,10,28,29.129423
+Massachusetts,11,98,112.96368
+Massachusetts,12,55,57.18893
+Michigan,1,12,14.223299
+Michigan,2,46,44.64749
+Michigan,3,38,30.786877
+Michigan,4,40,34.80797
+Michigan,5,10,16.53467
+Michigan,6,72,83.519455
+Michigan,7,50,68.817505
+Michigan,9,77,75.52332
+Michigan,10,27,29.627028
+Michigan,11,18,17.990168
+Michigan,12,36,41.407227
+Minnesota,1,19,12.434489
+Minnesota,2,12,12.474169
+Minnesota,3,40,36.117355
+Minnesota,5,35,26.621334
+Minnesota,6,18,13.298063
+Minnesota,9,14,15.149053
+Minnesota,10,15,12.904441
+Minnesota,11,32,28.893559
+Minnesota,12,14,14.191244
+Mississippi,2,10,18.743235
+Mississippi,3,15,18.803682
+Mississippi,4,14,19.045706
+Mississippi,10,12,18.332487
+Mississippi,11,11,18.055555
+Missouri,1,28,25.310791
+Missouri,2,16,14.677173
+Missouri,3,39,36.324192
+Missouri,4,50,51.181248
+Missouri,5,10,13.698484
+Missouri,7,30,34.125233
+Missouri,9,49,61.312637
+Missouri,10,14,12.614309
+Missouri,11,41,44.791763
+Missouri,12,18,22.695711
+Nevada,1,20,16.122229
+Nevada,4,29,20.701122
+Nevada,5,15,20.719713
+Nevada,7,40,32.5857
+Nevada,8,45,37.946907
+Nevada,9,42,41.298744
+Nevada,11,15,16.641357
+Nevada,12,19,18.97714
+New Hampshire,1,12,12.035991
+New Hampshire,7,10,11.670826
+New Jersey,1,21,16.007418
+New Jersey,2,37,54.41777
+New Jersey,3,131,114.6846
+New Jersey,5,98,82.05536
+New Jersey,7,66,72.27875
+New Jersey,10,49,43.31366
+New Jersey,11,22,23.283266
+New Jersey,12,59,53.184017
+New Mexico,3,17,19.983675
+New Mexico,4,18,18.651735
+New Mexico,6,20,19.668379
+New Mexico,7,22,19.381966
+New Mexico,8,26,19.005056
+New Mexico,9,13,17.404642
+New Mexico,10,14,18.388136
+New York,1,141,139.38861
+New York,2,136,154.16096
+New York,4,213,196.9478
+New York,5,33,32.785393
+New York,6,107,97.4093
+New York,7,164,175.91357
+New York,8,200,163.3273
+New York,9,87,79.75705
+New York,10,164,166.62732
+New York,11,151,178.45944
+New York,12,195,171.25217
+North Carolina,2,19,18.257414
+North Carolina,3,47,57.280693
+North Carolina,4,42,36.62642
+North Carolina,5,67,53.860245
+North Carolina,6,58,71.47369
+North Carolina,7,39,47.308647
+North Carolina,9,106,90.125824
+North Carolina,10,47,47.92178
+North Carolina,11,32,33.301666
+Ohio,1,151,162.27565
+Ohio,2,75,77.616135
+Ohio,3,24,23.429724
+Ohio,4,117,108.26755
+Ohio,5,88,84.97215
+Ohio,6,86,89.76829
+Ohio,7,89,69.21568
+Ohio,8,12,20.764677
+Ohio,9,14,19.501581
+Ohio,10,136,133.16025
+Ohio,11,57,52.054207
+Ohio,12,45,46.396942
+Oklahoma,1,15,17.163042
+Oklahoma,2,15,19.355816
+Oklahoma,4,25,22.106031
+Oklahoma,8,17,17.136953
+Oklahoma,10,35,34.14814
+Oklahoma,11,17,13.649353
+Oregon,1,10,7.5771403
+Oregon,2,26,33.21373
+Oregon,3,39,34.0603
+Oregon,4,26,29.046919
+Oregon,5,20,30.569017
+Oregon,6,62,62.383327
+Oregon,7,36,31.67565
+Oregon,9,19,32.16796
+Oregon,11,19,30.78575
+Pennsylvania,1,63,67.93746
+Pennsylvania,2,91,76.605606
+Pennsylvania,3,55,48.978455
+Pennsylvania,4,80,76.77581
+Pennsylvania,5,99,73.87075
+Pennsylvania,6,92,97.056274
+Pennsylvania,7,90,52.66839
+Pennsylvania,8,66,77.15625
+Pennsylvania,9,89,100.48612
+Pennsylvania,10,104,109.715034
+Pennsylvania,12,62,64.83802
+Rhode Island,8,10,12.80582
+South Carolina,1,23,27.969387
+South Carolina,2,33,38.804466
+South Carolina,3,38,38.556755
+South Carolina,4,80,85.91459
+South Carolina,5,13,13.706708
+South Carolina,6,37,38.86865
+South Carolina,7,32,38.442963
+South Carolina,8,31,23.751574
+South Carolina,9,24,22.98059
+South Carolina,10,60,52.98536
+South Carolina,12,29,25.270042
+Tennessee,2,11,19.278358
+Tennessee,3,17,15.556183
+Tennessee,5,30,44.13449
+Tennessee,6,14,12.736383
+Tennessee,7,43,47.593887
+Tennessee,8,25,14.124422
+Tennessee,9,15,13.295435
+Tennessee,10,17,12.593192
+Tennessee,11,70,64.688194
+Tennessee,12,72,68.539635
+Texas,1,68,71.917725
+Texas,2,134,141.88033
+Texas,4,46,39.73797
+Texas,6,157,156.7892
+Texas,7,39,36.997276
+Texas,8,42,30.038431
+Texas,9,150,145.93489
+Texas,10,153,170.63974
+Texas,11,117,122.519104
+Texas,12,77,76.99568
+Utah,9,11,10.837205
+Utah,12,18,14.644112
+Vermont,1,10,11.284758
+Virginia,1,55,44.735542
+Virginia,2,30,38.42814
+Virginia,3,50,45.40483
+Virginia,5,70,52.246643
+Virginia,6,115,111.44221
+Virginia,7,19,14.430653
+Virginia,8,46,41.757835
+Virginia,9,17,18.012804
+Virginia,10,59,50.624474
+Virginia,11,25,32.083862
+Virginia,12,30,24.018929
+Washington,2,125,153.75824
+Washington,3,140,117.38791
+Washington,4,42,47.09687
+Washington,7,79,69.90685
+Washington,8,12,8.576192
+Washington,9,65,63.656204
+Washington,11,44,53.420105
+Washington,12,74,61.888985
+West Virginia,1,30,22.61322
+West Virginia,3,28,23.687918
+West Virginia,4,32,24.122417
+West Virginia,5,49,48.477562
+West Virginia,7,44,48.34575
+West Virginia,8,12,24.761314
+West Virginia,9,22,30.21173
+West Virginia,10,24,34.87845
+West Virginia,12,28,28.648046
+Wisconsin,3,31,23.633923
+Wisconsin,4,10,10.248678
+Wisconsin,6,14,22.028372
+Wisconsin,7,55,46.64493
+Wisconsin,8,30,32.667244
+Wisconsin,10,14,18.826431
+Wisconsin,11,51,59.283398
